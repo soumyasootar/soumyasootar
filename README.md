@@ -1,5 +1,8 @@
 ![](https://camo.githubusercontent.com/fffe3693d44b6b05cb4b79cdf000a8094f38eafdb1b3ab1d3e05eacc60ba6fbd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d636f6d666f7274616126636f6c6f723d3031364545412673697a653d32342677696474683d353030266c696e65733d43757272656e746c792b4c6561726e696e672b46756c6c2d537461636b2b5765622b446576656c6f706d656e743b4f70656e2d536f757263652b446576656c6f7065723b4e6963652b746f2b6d6565742b796f752e2e2e)
 
+---
+[![](https://visitcount.itsvg.in/api?id=soumyasootar&icon=7&color=11)](https://visitcount.itsvg.in)
+
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soumyasootar&theme=radical&hide_border=false)<br/>
@@ -22,8 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=soumyasootar&icon=7&color=11)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/SoumyaSootar) 
