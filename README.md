@@ -8,9 +8,15 @@
 [![](https://visitcount.itsvg.in/api?id=soumyasootar&icon=7&color=11)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soumyasootar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyasootar&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyasootar&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumyasootar&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=soumyasootar&theme=radical&hide_border=false)
 
 
 # 💫 About Me:
