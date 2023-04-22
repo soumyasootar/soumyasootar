@@ -13,10 +13,12 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyasootar&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyasootar&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumyasootar&theme=monokai)
-![](https://github-readme-stats.vercel.app/api?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=soumyasootar&theme=radical&hide_border=false)
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=soumyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="soumya"/>
+    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasootar&theme=radical&hide_border=false" alt="soumya" />
+</div>
+
 
 
 # 💫 About Me:
