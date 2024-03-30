@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=soumyasootar&icon=7&color=11)](https://visitcount.itsvg.in)
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-<img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" alt="label" width="150px" />
+<img src="https://cdn.discordapp.com/attachments/1110582514801709078/1223560879992475679/Tech_Comp_3.png?ex=661a4cde&is=6607d7de&hm=a67a92d4b776dabad2f838e92abb57070cc485b2b2c66dc4891ad03f82caf2c6&" alt="label"  />
     </div>
 
 # 💫 About Me:
