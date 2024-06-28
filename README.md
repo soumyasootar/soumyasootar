@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=soumyasootar&icon=7&color=11)](https://visitcount.itsvg.in)
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-<img src="https://cdn.discordapp.com/attachments/1110582514801709078/1223560879992475679/Tech_Comp_3.png?ex=661a4cde&is=6607d7de&hm=a67a92d4b776dabad2f838e92abb57070cc485b2b2c66dc4891ad03f82caf2c6&" alt="label"  />
-    </div>
+<img src="https://soumyaswaroopsootar.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBg-removed%20SideImage-Main%20(1).4a94a261.png&w=750&q=75" alt="label"  />
 
 # 💫 About Me:
 - 👋 Hi, I’m <b>@soumyasootar</b>
@@ -33,6 +32,9 @@
 
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=soumyasootar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=soumyasootar&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
